@@ -80,8 +80,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'spree_db',
-        'USER': 'root',
-        'PASSWORD':'',
+        'USER': 'spree',
+        'PASSWORD':'Root#@123',
         'HOST':'localhost',
         'PORT':'3306',
         'OPTIONS': {
